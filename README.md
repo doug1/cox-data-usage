@@ -12,4 +12,8 @@ which are useful for debugging if anything goes wrong.  If everything
 worked, the JSON files should contain your customer and usage data.
 
 It was tested with WWW::Mechanize 1.91 from Fedora 30.
+Install Perl module dependencies by running:
+```
+sudo dnf install perl-WWW-Mechanize
+```
 
